@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamjohncaleb
-- 👀 I’m interested in Frontend Positions
-- 🌱 I’m currently learning Backend Development
+- 👀 I’m interested in Full Stack Positions
+- 🌱 I’m currently learning Project Management
 - 💞️ I’m looking to collaborate on multiple Projects
 - 📫 How to reach me @johncaleb022@gmail.com
 
