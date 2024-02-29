@@ -1,4 +1,4 @@
- HIi, I am Caleb John, I am an Experienced Fullstack Developer. Skilled in React JS, React Native, NodeJS, MongoDB, Mern Stack, RESTfull API’s, User Experience, and Design
+I am Caleb John, I am an Experienced Fullstack Developer. Skilled in React JS, React Native, NodeJS, MongoDB, Mern Stack, RESTfull API’s, User Experience, and Design
 - 📫 You can reach me @johncaleb022@gmail.com
 
 
