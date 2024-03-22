@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caleb John</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjohncaleb&label=Profile%20views&color=0e75b6&style=flat" alt="iamjohncaleb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamjohncaleb" alt="iamjohncaleb" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/iamjohncaleb" target="blank"><img src="https://img.shields.io/twitter/follow/iamjohncaleb?logo=twitter&style=for-the-badge" alt="iamjohncaleb" /></a> </p>
 
 - 🔭 I’m currently working on [Brainwave-React-App](https://github.com/iamjohncaleb/Brainwave-React-App)
 
@@ -13,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [-Full-Stack-Dribble-Clone-App](https://github.com/iamjohncaleb/A-Full-Stack-Dribble-Clone-App)
 
-- 👨‍💻 All of my projects are available at [@legendary_consult](@https://github.com/iamjohncaleb)
+- 👨‍💻 All of my projects are available at [@iamjohncaleb](@https://github.com/iamjohncaleb)
 
 - 💬 Ask me about **React, Next js and MongoDB**
 
