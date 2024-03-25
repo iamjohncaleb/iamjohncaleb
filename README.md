@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caleb John</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">I'm a Full Stack developer based in Nigeria, and I'm passionate about crafting digital experiences.</h3>
 
 
 - 🔭 I’m currently working on [Brainwave-React-App](https://github.com/iamjohncaleb/Brainwave-React-App)
