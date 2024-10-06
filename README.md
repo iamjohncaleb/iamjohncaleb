@@ -11,17 +11,14 @@
 <!-- Intro  -->
 
 <p align="center">
- <a href="https://codedsaif.developersdrills.com/" target="blank">
+ <a href="https://my-resume-jet-ten.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
- <a href="https://www.linkedin.com/in/codedsaif/" target="_blank">
+ <a href="https://www.linkedin.com/in/caleb-john-48a1bb29a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
- <a href="https://twitter.com/codedsaif" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://leetcode.com/isaifali/" target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-F0DB4F?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=F0DB4F" alt="alsiam" />
+ <a href="https://www.instagram.com/legendary_consult/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&labelColor=black&logo=instagram&logoColor=E4405F" alt="Instagram" />
  </a>
 </p>
 <br />
