@@ -3,7 +3,7 @@
 
 <h4 align="center">I am a Passionate Web3 Full Stack Developer with a proven track record of building decentralized applications (dApps) and smart contracts. Specializing in both front-end and back-end development within the blockchain ecosystem</h4>
 
-<a href="https://komarev.com/ghpvc/?username=codedsaif">
+<a href="https://komarev.com/ghpvc/iamjohncaleb">
   <img align="right" src="https://komarev.com/ghpvc/?username=codedsaif&label=Visitors&color=0e75b6&style=flat" alt="codedsaif Profile visitor" />
 </a>
 <!-- [![wakatime](https://wakatime.com/badge/user/018d353e-a012-47ce-9b0f-f7decb4e8359.svg)](https://wakatime.com/@codedsaif) -->
