@@ -9,21 +9,6 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/018d353e-a012-47ce-9b0f-f7decb4e8359.svg)](https://wakatime.com/@codedsaif) -->
 <p>&nbsp;<p>
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://codedsaif.developersdrills.com/">Saif Ali</a></b>
-        </samp>
-</h3>
-
-<p style="max-width:640px; margin:auto;" align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=codedsaif">「 Google Me 」</a>
-    <br>
-    「 Skilled Full Stack Web Developer adept at designing, developing, and maintaining projects. Demonstrates a continuous learning mindset, with a focus on adaptability in the dynamic digital realm. 」
-    <br>
-    <br>
-  </samp>
-</p>
 
 <p align="center">
  <a href="https://codedsaif.developersdrills.com/" target="blank">
