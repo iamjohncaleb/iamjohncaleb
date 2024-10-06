@@ -2,7 +2,6 @@
 <h3 align="center">I'm a Full Stack Developer and I'm passionate about crafting digital experiences.</h3>
 
 <h4 align="center">I am a Passionate Web3 Full Stack Developer with a proven track record of building decentralized applications (dApps) and smart contracts. Specializing in both front-end and back-end development within the blockchain ecosystem</h4>
-![image_processing20210907-8588-t5bv7p](https://github.com/user-attachments/assets/0e69df56-bfbd-4a4c-a4fb-138d5487f3af)
 
 <a href="https://komarev.com/ghpvc/iamjohncaleb">
   <img align="right" src="https://komarev.com/ghpvc/?username=codedsaif&label=Visitors&color=0e75b6&style=flat" alt="codedsaif Profile visitor" />
@@ -32,7 +31,7 @@
 # About me
 
 <p>
- <img align="right" width="320" src="./programmer.gif" alt="codedsaif gif" />
+ <img align="right" width="320" src="https://github.com/user-attachments/assets/0e69df56-bfbd-4a4c-a4fb-138d5487f3af" alt="codedsaif gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
