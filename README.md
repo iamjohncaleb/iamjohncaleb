@@ -30,8 +30,8 @@
 <p>
  <img align="right" width="320" src="https://github.com/user-attachments/assets/0e69df56-bfbd-4a4c-a4fb-138d5487f3af" alt="codedsaif gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to write code and learn new features<br/><br/>
  📧 &emsp; Reach me anytime: Johncaleb022@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/iamjohncaleb)
 
