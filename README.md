@@ -1,4 +1,18 @@
-<h1 align="center">Hi 👋, I'm Caleb John</h1>
+<div align="center">
+  <br />
+      <img src="https://github.com/iamjohncaleb/200-Days-Of-Code-Challenge/blob/main/challenge%20Thumbnail.png" alt="Project Banner">
+
+  <div>
+    <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/hardhat-F3BA2F?style=for-the-badge&logo=ethereum&logoColor=black" />
+  </div>
+
+  <h3 align="center"> Hi 👋, I'm Caleb John </h3>
+</div>
+
+
 <h3 align="center">Web3 Full Stack Developer</h3>
 
 <h4 align="center">I am a Passionate Web3 Full Stack Developer with a proven track record of building decentralized applications (dApps) and smart contracts. Specializing in both front-end and back-end development within the blockchain ecosystem</h4>
