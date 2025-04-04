@@ -79,7 +79,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759B)
 ![DevOps](https://img.shields.io/badge/DevOps-0E8BFF?style=for-the-badge&labelColor=black&logo=devops&logoColor=0E8BFF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=326CE5)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 
